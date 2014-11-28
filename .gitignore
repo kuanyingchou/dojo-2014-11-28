@@ -1,0 +1,16 @@
+/Library/
+/Temp/
+*.swp
+*~
+*.sln
+*.pidb
+*.csproj
+*.unityproj
+*.userprefs
+-tk2d.asset
+-tk2d.asset.meta
+/*.log
+/out
+/temp_proj
+*.suo
+/Assembly*
